@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "deviceID": "1",
+      "end_points": "http://example.com/device1",
+      "resources": "sensor, actuator",
+      "timestamp": "2024-06-25T10:30:00Z"
+    },
+    {
+      "deviceID": "2",
+      "end_points": "http://example.com/device2",
+      "resources": "camera, microphone",
+      "timestamp": "2024-06-25T11:15:00Z"
+    }
+  ],
+  "services": [
+    {
+      "serviceID": "101",
+      "name": "Temperature Service"
+    },
+    {
+      "serviceID": "102",
+      "name": "Security Service"
+    }
+  ],
+  "users": [
+    {
+      "userID": "1001",
+      "name": "John",
+      "surname": "Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "userID": "1002",
+      "name": "Jane",
+      "surname": "Smith",
+      "email": "jane.smith@example.com"
+    }
+  ]
+}
