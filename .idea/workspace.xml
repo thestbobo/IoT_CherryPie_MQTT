@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5fb95f5-4b77-45f7-97af-ccfe3a1862ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IoTLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab1/es1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab1/es2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab1/es3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab2/es1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWLab2/info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3es1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3es2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3es3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab14-Simulazione-esame/model/chromosome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab14-Simulazione-esame/UI/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab14-Simulazione-esame/UI/controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab14-Simulazione-esame/database/DAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab14-Simulazione-esame/database/DAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab14-Simulazione-esame/database/connector.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab14-Simulazione-esame/database/connector.cnf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab14-Simulazione-esame/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab14-Simulazione-esame/model/model.py" afterDir="false" />
-    </list>
+    <list default="true" id="b5fb95f5-4b77-45f7-97af-ccfe3a1862ee" name="Changes" comment="Updated repository" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +195,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719215374104</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated repository">
+      <option name="closed" value="true" />
+      <created>1719344429614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719344429614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated repository" />
   </component>
 </project>
